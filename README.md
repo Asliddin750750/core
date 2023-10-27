@@ -1,3 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="30">
+  <text x="10" y="20" font-family="Arial" font-size="20" fill="black">hello</text>
+</svg>
+
+
 # vuejs/core [![npm](https://img.shields.io/npm/v/vue.svg)](https://www.npmjs.com/package/vue) [![build status](https://github.com/vuejs/core/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vuejs/core/actions/workflows/ci.yml)
 
 ## Getting Started
