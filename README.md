@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="30">
-  <text x="10" y="20" font-family="Arial" font-size="20" fill="black">hello</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20">
+  <rect width="100%" height="100%" fill="#007ec6" />
+  <text x="10" y="15" font-family="Arial" font-size="12" fill="white">GitHub Badge</text>
 </svg>
 
 
